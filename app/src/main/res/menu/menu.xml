@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calculate"
+        android:icon="@drawable/calculate"
+        android:title="Kalkulator"/>
+    <item
+        android:id="@+id/health"
+        android:icon="@drawable/health"
+        android:title="BMI"/>
+    <item
+        android:id="@+id/person"
+        android:icon="@drawable/person"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/games"
+        android:icon="@drawable/games"
+        android:title="Games"/>
+    <item
+        android:id="@+id/star"
+        android:icon="@drawable/star"
+        android:title="Bintang"/>
+
+</menu>
